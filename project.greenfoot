@@ -1,9 +1,9 @@
 #Greenfoot project file
 class.Crab.image=crabb.png
 class.CrabWorld.image=sand.jpg
-class.Lobstering.image=sernaj.png
+class.Lobstering.image=lobster.png
 class.WinSplash.image=youWon.png
-class.worming.image=sernajing.png
+class.worming.image=worm.png
 dependency1.from=CrabWorld
 dependency1.to=Crab
 dependency1.type=UsesDependency
@@ -22,10 +22,10 @@ dependency5.type=UsesDependency
 dependency6.from=Crab
 dependency6.to=Lobstering
 dependency6.type=UsesDependency
-editor.fx.0.height=0
-editor.fx.0.width=0
-editor.fx.0.x=0
-editor.fx.0.y=0
+editor.fx.0.height=737
+editor.fx.0.width=814
+editor.fx.0.x=360
+editor.fx.0.y=28
 height=838
 package.numDependencies=6
 package.numTargets=5

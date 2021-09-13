@@ -73,5 +73,23 @@ public class CrabWorld extends World
         removeObject(worming10);
         Lobstering lobstering2 = new Lobstering();
         addObject(lobstering2,314,69);
+        worming worming17 = new worming();
+        addObject(worming17,143,334);
+        worming worming18 = new worming();
+        addObject(worming18,149,332);
+        worming worming19 = new worming();
+        addObject(worming19,120,446);
+        worming worming20 = new worming();
+        addObject(worming20,217,507);
+        worming worming21 = new worming();
+        addObject(worming21,506,520);
+        worming worming22 = new worming();
+        addObject(worming22,390,439);
+        worming worming23 = new worming();
+        addObject(worming23,493,344);
+        worming worming24 = new worming();
+        addObject(worming24,243,199);
+        worming17.setLocation(132,274);
+        worming18.setLocation(84,236);
     }
 }
